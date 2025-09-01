@@ -1,0 +1,7 @@
+import numpy as np
+a=np.arange(0,5).reshape(1,5)
+b=np.arange(5,10).reshape(1,5)
+print("array 1:","\n",a)
+print("array 2:","\n",b)
+print("concatenate alone row:","\n",np.concatenate((a,b),axis =0))
+print("concatenate alone columns:"\n",np.concatenate((a,b),axis =1))

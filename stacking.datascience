@@ -1,0 +1,7 @@
+import numpy as np
+a=np.arange(0,5)
+b=np.arane(5,10)
+print("array 1:","\n",a)
+print("array 2:","\n",b)
+print("vertical stacking:","\n",np.vstack((a,b)))
+print("horizonal stacking:","\n",np.hstack((a,b)))

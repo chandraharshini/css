@@ -1,0 +1,8 @@
+import numpy as np
+a=[[1,2],[3,4]]
+b=[[5,6][[7,8]]]
+c=np.dstack((a,b))
+print("array 1:","\n",a)
+print("array 2:","\n",b)
+print("dstack:","\n",c)
+print(c,shape)

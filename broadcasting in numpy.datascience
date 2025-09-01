@@ -1,0 +1,5 @@
+import numpy as np
+a=np.arange(10,20,2)
+b=np.array([[2],[2]])
+print("adding two different size array:","\n",a+b)
+print("multiplying an ndarray and a number:",a* 2)

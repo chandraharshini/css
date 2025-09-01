@@ -1,0 +1,2 @@
+a=np.array([[1,2][3,4]])
+np.append(a,[[5,6]],axis =0)
