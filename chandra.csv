@@ -1,0 +1,6 @@
+Id.number,Gender,Marriage-status,Dependent,Education,SelfEmployment ,Application-income,Co-Application-income,Loan-Amount,Amount-terms,Credit-history,Property-Area,Loan-Status
+id-1,Male,yes,1,under-Graduation,yes,"50,000","10,00,000","30,000",12,0,urban,Approved
+id-2,Female,no,2,Graduation,No,"10,000","20,00,000","2,00,000",18,1,rular,Reject
+id-3,Male,yes,1,under-Graduation,Yes,"50,000","5,00,000","5,00,000",45,2,urban,Approved
+id-4,Female,no,0,Graduation,No,"60,000","1,00,00,000","80,000",13,1,rular,Reject
+id-5,Male,yes,,under-Graduation,Yes,"5,000","50,00,000","1,20,00,500",14,0,urban,Approved

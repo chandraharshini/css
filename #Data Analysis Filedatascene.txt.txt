@@ -1,0 +1,7 @@
+#Data Analysis File:datascene.txt
+date:01-11-2025
+project:ids text file
+status:compled
+ 
+total students:45
+pass rate:88,9%
